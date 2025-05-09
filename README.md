@@ -1,1 +1,1 @@
-[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/avgupta456/langs](https://api.githubtrends.io/user/svg/MartinEAcosta/langs?time_range=one_year&include_private=True&theme=dark))](https://githubtrends.io)
+
