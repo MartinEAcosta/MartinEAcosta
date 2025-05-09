@@ -1,1 +1,1 @@
-![MartinEAcosta_langs](https://github.com/user-attachments/assets/877bd7a7-1a58-4a30-b170-c913472c1b61)
+[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/avgupta456/langs](https://api.githubtrends.io/user/svg/MartinEAcosta/langs?time_range=one_year&include_private=True&theme=dark))](https://githubtrends.io)
