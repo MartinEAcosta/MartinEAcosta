@@ -19,7 +19,6 @@ Hola mi nombre es Martin Ezequiel Acosta, tengo 21 años y actualmente me encuen
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MartinEAcosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MartinEAcosta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinEAcosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MartinEAcosta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
