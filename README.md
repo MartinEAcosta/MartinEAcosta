@@ -3,9 +3,7 @@
 Hola mi nombre es Martin Ezequiel Acosta, tengo 21 años y actualmente me encuentro en el ultimo año de la Tecnicatura en Desarrollo de Aplicaciónes Informaticas (TUDAI) de la UNICEN.  
 
 🔭 Actualmente estoy trabajando en los siguientes proyectos:
-- 🛒 Una tienda e-commerce en React + Node + PostgreSQL. 
-  - [Link al proyecto (front).](https://github.com/MartinEAcosta/gamer-sector-react/)
-  - [Link al proyecto (back).](https://github.com/MartinEAcosta/gamersector-backend/)
+
 - 📚 Una especie de Udemy Publico.
   -  [Link al proyecto (front).](https://github.com/MartinEAcosta/seminario-angular/)
   -  [Link al proyecto (back).](https://github.com/MartinEAcosta/seminario-angular-backend/)
