@@ -1,6 +1,6 @@
 # ¡Bienvenid@ A Mi Perfil!
 
-Hola mi nombre es Martin Ezequiel Acosta, tengo 21 años y actualmente me encuentro en el ultimo año de la Tecnicatura en Desarrollo de Aplicaciónes Informaticas (TUDAI) de la UNICEN.  
+Hola mi nombre es Martin Ezequiel Acosta, tengo 22 años y actualmente me encuentro en el ultimo año de la Tecnicatura en Desarrollo de Aplicaciónes Informaticas (TUDAI) de la UNICEN.  
 
 🔭 Actualmente estoy trabajando en los siguientes proyectos:
 
